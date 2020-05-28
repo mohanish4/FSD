@@ -1,0 +1,29 @@
+.a1{
+    color:red;
+    font-style: oblique;
+}
+.a2{
+    color:blue;
+    font-style: normal;
+    font-variant: small-caps;
+}
+.a3{
+    color:palevioletred;
+    font-style:italic;
+    font-variant: small-caps;
+}
+.a1{
+    color:red;
+    text-align:right;
+    text-transform:smallcaps;
+}
+.a2{
+    color:#33FF4B ;
+    text-align: left;
+    text-transform:uppercase;
+}
+.a3{
+    color:rgb(51, 255, 75);
+    text-align:center;
+    text-transform:lowercase;
+}
